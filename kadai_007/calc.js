@@ -2,7 +2,7 @@ let num = 15
 
 
 if (num % 15 == 0) {
-  console.log("15の倍数です");
+  console.log("3と5の倍数です");
 }
 else if (num % 3 == 0){
   console.log("3の倍数です");
